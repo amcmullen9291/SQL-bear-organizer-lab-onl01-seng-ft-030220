@@ -7,4 +7,3 @@ color	text,
 temperament	text,
 alive	integer
 );
-.mode columns
